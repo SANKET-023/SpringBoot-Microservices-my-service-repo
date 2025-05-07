@@ -1,2 +1,2 @@
 server.port=8082
-welcome.message=Welcome to the product service developer 
+welcome.message=Welcome to the product service developer
