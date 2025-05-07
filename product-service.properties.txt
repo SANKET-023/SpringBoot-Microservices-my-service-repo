@@ -1,2 +1,2 @@
-server.port=8081 
+server.port=8081
 welcome.message=Welcome to the product service
